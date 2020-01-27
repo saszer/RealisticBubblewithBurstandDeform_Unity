@@ -34,4 +34,5 @@ Shading the bubble :
 ![creating bubble via cloth](readmepictures/justatouch-shaded.gif)
 ![creating bubble via cloth](readmepictures/hardhit-shaded.gif)
 
-// Created while development of Multiverse (https://www.blurb.com/b/9703113-art-of-multiverse) a Mixed Reality experience using LeapMotion and AR Depth Camera's mounted with HTC Vive. https://vimeo.com/356139571 < this stage || full > https://vimeo.com/369004134
+// Created while development of Multiverse (https://www.blurb.com/b/9703113-art-of-multiverse) a Mixed Reality experience using LeapMotion and AR Depth Camera's mounted with HTC Vive. 
+https://vimeo.com/356139571 < this stage || full > https://vimeo.com/369004134
