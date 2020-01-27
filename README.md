@@ -1,6 +1,6 @@
 # RealisticBubblewithBurstandDeform_Unity
 
-A simple Unity Project file creating close to bubble nature.
+A simple Unity Project file creating bubble with deformations/force.
 
 Process>> 
 
