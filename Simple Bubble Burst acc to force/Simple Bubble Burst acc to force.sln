@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.26730.15
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Simple Bubble Burst acc to force", "Simple Bubble Burst acc to force.csproj", "{28DDD68A-3D68-729A-BDE0-F32FD3A6053A}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Simple Bubble Burst acc to force.Editor", "Simple Bubble Burst acc to force.Editor.csproj", "{A7383DD2-4B66-92D2-6013-7B2251EEB447}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{28DDD68A-3D68-729A-BDE0-F32FD3A6053A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{28DDD68A-3D68-729A-BDE0-F32FD3A6053A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{28DDD68A-3D68-729A-BDE0-F32FD3A6053A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{28DDD68A-3D68-729A-BDE0-F32FD3A6053A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A7383DD2-4B66-92D2-6013-7B2251EEB447}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A7383DD2-4B66-92D2-6013-7B2251EEB447}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A7383DD2-4B66-92D2-6013-7B2251EEB447}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A7383DD2-4B66-92D2-6013-7B2251EEB447}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {4D637033-3183-4864-B02E-B358ADB63382}
+	EndGlobalSection
+EndGlobal
