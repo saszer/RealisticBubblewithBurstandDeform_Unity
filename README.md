@@ -1,6 +1,8 @@
 # RealisticBubblewithBurstandDeform_Unity
 
 A simple Unity Project file creating bubble with deformations/force.
+![creating bubble via cloth](readmepictures/bubble.gif)
+
 
 Process>> 
 
@@ -14,3 +16,22 @@ Full Code  >>> https://github.com/saszer/RealisticBubblewithBurstandDeform_Unity
 
 ![creating bubble via cloth](readmepictures/code1.jpg)
 ![creating bubble via cloth](readmepictures/code2.jpg)
+
+just a touch -
+
+![creating bubble via cloth](readmepictures/justatouch.gif)
+
+hard hit -
+
+![creating bubble via cloth](readmepictures/hardhit.gif)
+
+creating the burst particle system :  
+![creating bubble via cloth](readmepictures/onburst.gif)
+
+Shading the bubble : 
+(shader from https://github.com/JPBotelho/Soap-Bubble)
+
+![creating bubble via cloth](readmepictures/justatouch-shaded.gif)
+![creating bubble via cloth](readmepictures/hardhit-shaded.gif)
+
+// Created while development of Multiverse (https://www.blurb.com/b/9703113-art-of-multiverse) a Mixed Reality experience using LeapMotion and AR Depth Camera's mounted with HTC Vive. https://vimeo.com/356139571 < this stage || full > https://vimeo.com/369004134
